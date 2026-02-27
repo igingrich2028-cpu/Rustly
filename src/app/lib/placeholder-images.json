@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "rust-logo",
+      "description": "Rust programming language logo",
+      "imageUrl": "https://picsum.photos/seed/rust/200/200",
+      "imageHint": "rust logo"
+    }
+  ]
+}
