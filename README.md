@@ -1,8 +1,14 @@
-# Rustly
+<!-- Dark Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=200&section=header&text=Rustly&fontColor=ffffff&fontSize=50" />
+</p>
 
-Rustly is a powerful, browser-based Rust playground and mini-IDE that lets you write, compile, and run Rust code directly in your browser — no local installation required.
+<h1 align="center">🦀 Rustly</h1>
 
-It combines a fast Rust compiler environment with project-level features like file management and crate support, making it more than just a basic playground.
+<p align="center">
+  <b>A powerful browser-based Rust playground and mini-IDE</b><br>
+  Write, compile, and run Rust directly in your browser — no installation required.
+</p>
 
 ---
 
@@ -16,7 +22,7 @@ Write and execute Rust code instantly without installing `rustc` or `cargo`.
 
 ### 📦 40+ Popular Crates Supported
 
-Rustly includes built-in support for over 50 popular Rust crates, allowing you to use commonly needed libraries without manual setup.
+Rustly includes built-in support for **40+ popular Rust crates**, allowing you to use commonly needed libraries without manual setup.
 
 Examples include:
 
@@ -57,3 +63,9 @@ See compiler output, errors, and program results in an embedded terminal panel.
 ### ⚡ Zero Setup
 
 Everything runs in the browser — no downloads, no toolchains, no configuration required.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=120&section=footer"/>
+</p>
