@@ -1,5 +1,5 @@
-# Firebase Studio
+# Rustly
 
-This is a NextJS starter in Firebase Studio.
+This is a NextJS applet
 
-To get started, take a look at src/app/page.tsx.
+For extra info, look at src/app/page.tsx.
