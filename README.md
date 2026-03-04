@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=200&section=header&text=Rustly&fontColor=ffffff&fontSize=50" />
 </p>
 
-<h1 align="center">🦀 Rustly</h1>
-
 <p align="center">
   <b>A powerful browser-based Rust playground and mini-IDE</b><br>
   Write, compile, and run Rust directly in your browser — no installation required.
