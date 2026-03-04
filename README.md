@@ -14,7 +14,7 @@ Write and execute Rust code instantly without installing `rustc` or `cargo`.
 
 ---
 
-### 📦 50+ Popular Crates Supported
+### 📦 40+ Popular Crates Supported
 
 Rustly includes built-in support for over 50 popular Rust crates, allowing you to use commonly needed libraries without manual setup.
 
