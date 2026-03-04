@@ -22,7 +22,6 @@ Examples include:
 
 - `serde`
 - `tokio`
-- `rand`
 - `reqwest`
 - and many more
 
